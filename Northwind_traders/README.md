@@ -17,5 +17,5 @@ Following the peak increase, there was a subsequent sharp decline in revenue dur
 ## Insights and Recommendations:
 As we sift through the insights, it's evident that focusing our marketing efforts on specific products(Top 6) and regions could yield even more significant returns. Additionally, investing in customer service initiatives during peak seasons could further enhance satisfaction and loyalty.
 
-##Conclusion:
+## Conclusion:
 In conclusion, this dashboard serves as a powerful tool for data-driven decision-making at Northwind Traders. By leveraging these insights, we can optimize our strategies and continue to grow in a competitive market.

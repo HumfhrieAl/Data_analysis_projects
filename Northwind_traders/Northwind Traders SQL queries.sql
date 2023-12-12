@@ -89,6 +89,3 @@ ORDER BY 6 DESC
 select * from orders
 join order_details on order_details."orderID" = orders."orderID"
 join customers c on c."customerID" = orders."customerID"
-	
-	
-select * from shippers

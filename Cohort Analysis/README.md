@@ -1,15 +1,15 @@
 ## Cohort Analysis
 
 ## Overview
-Cohort analysis is an analytical technique used to study the behavior of specific groups of individuals, or cohorts, over time.
+Cohort analysis is an analytical technique used to study the behavior of specific groups of individuals, or cohorts over time.
 
 ## Introduction
 cohort analysis allows you to track and analyze the performance of distinct cohorts, or groups, that share a common characteristic or experience within a defined time frame. It is commonly used in business and marketing to understand customer retention, revenue patterns, and other key performance indicators.
 
 ## Cohorts
 Key cohorts are:
-Customer first order date
-Order creation date
+Customer first order date,
+Order creation date,
 Customer creation date
 
 ## Metrics and Analysis

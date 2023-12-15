@@ -20,4 +20,5 @@ https://public.tableau.com/app/profile/humphrey.al/viz/cohortAnalysis_1702535414
 
 ## Interactivity and Filters
  Use Filters to ehance interactivity which will allow you explore specific cohorts, time period interactively.
- 
+ ## data source
+ bigquery-public-data.thelook_ecommerce
